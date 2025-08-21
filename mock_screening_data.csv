@@ -1,0 +1,4 @@
+redcap_event_name,consent,ptrefused,inelig,randomized,scr_ga,edd,bp_date1,bp_date2,pragbp1,pragbp2,preggt23,seccause,renal,addict,more_meds,fetaldemise,iugr,membraner,multigest
+screening_visit_arm_1,1,0,0,1,10.5,12/1/2024,2/15/2024,3/20/2024,0,1,0,0,0,0,0,0,0,0,0
+screening_visit_arm_1,0,1,1,0,11.2,11/20/2024,2/28/2024,3/25/2024,1,0,0,0,0,0,1,0,0,0,0
+screening_visit_arm_1,1,0,1,1,9.8,12/15/2024,3/1/2024,3/30/2024,0,0,0,1,0,0,0,0,0,0,1
